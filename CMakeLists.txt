@@ -10,4 +10,5 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 set(engine_name engine)
 
+add_subdirectory(basic)
 add_subdirectory(RAII)
