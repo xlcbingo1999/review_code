@@ -2,6 +2,7 @@
 #include "decorator.h"
 #include <thread>
 #include <vector>
+#include <memory>
 
 int main() {
     {
